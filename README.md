@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, World! I'm Colin Menuchi, Computer Science Student and Software Engineer 👋😄
 
 <!--
 **ColinMenuchi/ColinMenuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
