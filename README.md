@@ -1,6 +1,6 @@
 ## Hello, World! I'm Colin Menuchi, Computer Science Student and Software Engineer 👋😄
 
-I'm currently a third-year at Northeastern University, the lead developer of my board game club's website, and an incoming SWE intern at Fidelity Investments! I also dabble in a few other hobbies on the side, which you can read more about on my website if you're interested 🚀
+I'm currently a third-year at Northeastern University, the lead developer of my board game club's website, and an incoming SWE intern at Fidelity Investments! I also dabble in a few other hobbies on the side, which you can read more about on my [website](https://www.colinmenuchi.com) if you're interested 🚀
 
 To contact me, I'm bested reached by email: colinmenuchi@gmail.com
 
